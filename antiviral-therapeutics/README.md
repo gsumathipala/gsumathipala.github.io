@@ -2,7 +2,7 @@
 
 An encyclopaedic, open-access reference on antiviral therapeutics across the human virome — molecular mechanism, clinical virology and bedside decision-making — for medical practitioners with an interest in infectious diseases.
 
-**Authors:** Saranga Sumathipala and Claude (Anthropic) · **Edition:** Reference edition, 2026 · **Format:** PDF, 69 pages
+**Author:** Saranga Sumathipala · **Edition:** Reference edition, 2026 · **Format:** PDF, 69 pages
 
 **[Download the PDF](Antiviral_Therapeutics.pdf)** · **[Web page](https://gsumathipala.github.io/antiviral-therapeutics/)**
 
@@ -32,11 +32,11 @@ Ten original figures: the replication cycle as an intervention map, activation c
 
 © 2026 Saranga Sumathipala. Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE). All figures are original.
 
-**Suggested citation:** Sumathipala S, Claude (Anthropic). *Antiviral Therapeutics: An Encyclopaedic Reference Across the Human Virome*. Reference edition, 2026. Open access, CC BY 4.0.
+**Suggested citation:** Sumathipala S. *Antiviral Therapeutics: An Encyclopaedic Reference Across the Human Virome*. Reference edition, 2026. Open access, CC BY 4.0.
 
-## Authorship and use of AI
+## Use of AI
 
-Co-authored with an AI tool (Claude, Anthropic), which drafted the text and produced the figures. The named human author directed and reviewed the work and is responsible for it.
+Prepared with the assistance of an AI tool (Claude, Anthropic), which was used to draft the text and produce the figures. The author directed the work and is responsible for it.
 
 ## Disclaimer
 
